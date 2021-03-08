@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://miro.medium.com/max/2480/1*POl37BWWEribnWpMAo6YiA.png">
  
 # Olá!
  
@@ -10,7 +10,7 @@ Gosto muito de trabalhar no back-end 😎 domino menos o lado 'fronteiro' da coi
  
 ## Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AraujoGS)](https://github.com/AraujoGS)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/garaujosilva)](www.linkedin.com/in/garaujosilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garaujosilva)](https://www.linkedin.com/in/garaujosilva)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511954976863&text=Olá!)](https://api.whatsapp.com/send?phone=5511954976863&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermearaujo421@gmail.com)](mailto:guilhermearaujo421@gmail.com)
  
