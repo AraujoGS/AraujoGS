@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://miro.medium.com/max/2480/1*POl37BWWEribnWpMAo6YiA.png">
+<img align="right" width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
  
 # Olá!
  
