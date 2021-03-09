@@ -9,7 +9,7 @@ Sou desenvolvedor focado em javascript⚡⚡
 Gosto muito de trabalhar no back-end 😎, domino menos o lado 'fronteiro' da coisa 😅 mas nada que um pouco de estudo, pesquisa e esforço 💪🏻👨🏻‍💻 não ajude a chegar na melhor solução para os desafios que encontro nos projetos.
 
 ## Conhecimentos
-- [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+- ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
 - [![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
 - [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
