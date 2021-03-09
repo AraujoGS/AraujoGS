@@ -6,7 +6,7 @@
  
 Sou desenvolvedor focado em javascript⚡⚡
 
-Gosto muito de trabalhar no back-end 😎 domino menos o lado 'fronteiro' da coisa 😅 mas nada que um pouco de estudo, pesquisa e esforço 💪🏻👨🏻‍💻 não ajude a chegar na melhor solução para os desafios que encontro nos projetos.
+Gosto muito de trabalhar no back-end 😎, domino menos o lado 'fronteiro' da coisa 😅 mas nada que um pouco de estudo, pesquisa e esforço 💪🏻👨🏻‍💻 não ajude a chegar na melhor solução para os desafios que encontro nos projetos.
  
 ## Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AraujoGS)](https://github.com/AraujoGS)
