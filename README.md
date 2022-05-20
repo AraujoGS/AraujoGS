@@ -1,5 +1,4 @@
 # Olá, eu sou o Guilherme! 
-## Seja bem vindo 👊
 
 Sou desenvolvedor focado em javascript, mas com interesse por diversas linguagens e tecnologias como Flutter, Cloud, Kotlin, C#, Typescript e por ai vai... 👨🏻‍💻 
 
