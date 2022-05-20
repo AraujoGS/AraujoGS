@@ -1,11 +1,11 @@
 # Olá, eu sou o Guilherme! 
 ## Seja bem vindo 👊
 
-### Sou desenvolvedor focado em javascript, mas com interesse por diversas linguagens e tecnologias como Flutter, Cloud, Kotlin, C#, Typescript e por ai vai... 👨🏻‍💻 
+Sou desenvolvedor focado em javascript, mas com interesse por diversas linguagens e tecnologias como Flutter, Cloud, Kotlin, C#, Typescript e por ai vai... 👨🏻‍💻 
 
 # Trabalho
 
-### Atualmente trabalho como desenvolvedor na [Qualicorp](https://qualicorp.com.br/) atuando em projetos ligados a venda de planos de saúde, programa de fidelidade para corretores e sistemas internos de automatização dos processos internos 
+Atualmente trabalho como desenvolvedor na <a href="https://qualicorp.com.br/" target="_blank">Qualicorp</a> atuando em projetos ligados a venda de planos de saúde, programa de fidelidade para corretores e sistemas internos de automatização dos processos internos 
 para efetivação de uma proposta de compra. venho trabalhando com:
 
 - ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +23,7 @@ para efetivação de uma proposta de compra. venho trabalhando com:
 
 # Interesses
 
-### Gosto muito do backend, desde que resolvi me tornar desenvolvedor e comecei a desbravar o mundo da tecnologia sempre me identifiquei pelo que acontece por trás dos panos. Pretendo seguir estudando linguagens, patterns, técnicas, boas práticas e me especializar em arquitetura de software.
+Gosto muito do backend, desde que resolvi me tornar desenvolvedor e comecei a desbravar o mundo da tecnologia sempre me identifiquei pelo que acontece por trás dos panos. Pretendo seguir estudando linguagens, patterns, técnicas, boas práticas e me especializar em arquitetura de software.
 <br>
 
 # Outros conhecimentos
