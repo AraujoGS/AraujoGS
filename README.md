@@ -44,12 +44,6 @@ Gosto muito do backend, desde que resolvi me tornar desenvolvedor e comecei a de
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 - ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-
-# Github Status
-
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=araujogs)
-
-
 # Contatos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AraujoGS)](https://github.com/AraujoGS)
